@@ -1,6 +1,6 @@
 # Wiki
 
-Current wiki is deployed at [wiki.nikiv.dev](https://wiki.nikiv.dev) & with old code/content [here](https://github.com/past-nikiv/knowledge).
+Current wiki is deployed at [wiki.nikiv.dev](https://wiki.nikiv.dev) which is based on code/content in [this repo](https://github.com/past-nikiv/knowledge).
 
 Currently do notes in Notion but will move to [Learn Anything](https://learn-anything.xyz/) soon.
 
