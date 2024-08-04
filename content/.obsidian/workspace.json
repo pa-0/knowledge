@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de72180bdefb442f",
+        "id": "bc5a17fe3d862e96",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1c8c7e67567645",
+            "id": "4c407652c3951b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4370c9b355d15c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1c8c7e67567645",
+  "active": "4c407652c3951b51",
   "lastOpenFiles": [
-    "private",
+    "problems-solutions.md",
+    "rules.md",
+    "focus.md",
+    "Pasted image 20240803222756.png",
     "actions.md",
-    "rules.md"
+    "private"
   ]
 }
