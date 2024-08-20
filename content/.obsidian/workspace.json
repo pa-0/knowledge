@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc5a17fe3d862e96",
+        "id": "f4ccb6ad5592cce5",
         "type": "tabs",
         "children": [
           {
-            "id": "4c407652c3951b51",
+            "id": "0c1ba02deb1ccda0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python.md",
+                "file": "nix.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python.md",
+                "file": "nix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python.md",
+                "file": "nix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python.md"
+                "file": "nix.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c407652c3951b51",
+  "active": "0c1ba02deb1ccda0",
   "lastOpenFiles": [
-    "private/la.md",
+    "veganism.md",
+    "telegram.md",
     "python.md",
+    "nix.md",
+    "file.md",
+    "flox.md",
+    "interviews.md",
+    "private/la.md",
     "private/journal/24",
     "private/journal/24/august.md",
     "ronin.md",

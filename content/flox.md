@@ -1,0 +1,1 @@
+https://shipit.flox.dev = releases of Flox (nightly..)
